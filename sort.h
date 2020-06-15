@@ -36,6 +36,8 @@ void quick_sort(int *array, size_t size);
 
 /*advanced*/
 
+void shell_sort(int *array, size_t size);
+
 #endif /* PROTO_ */
 
 #endif /* SORT_H */
